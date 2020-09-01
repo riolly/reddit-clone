@@ -21,7 +21,7 @@ export class PostResolver {
     return post;
   }
 
-  @Mutation(() => Post)
+  @Mutation(() => Post, { nullable: true })
   async updatePost(
     @Arg('id') id: number,
     @Arg('title', { nullable: true }) title: string,
