@@ -1,5 +1,7 @@
 {
   "cSpell.words": [
     "mikro"
-  ]
+  ],
+  "editor.formatOnSave": true,
+  "editor.minimap.maxColumn": 80
 }
