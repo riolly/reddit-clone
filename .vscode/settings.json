@@ -2,7 +2,8 @@
   "cSpell.words": [
     "asynciterable",
     "esnext",
-    "mikro"
+    "mikro",
+    "resave"
   ],
   "editor.formatOnSave": true,
   "editor.minimap.maxColumn": 80
